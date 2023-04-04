@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MensagemController {
 	
 	
-	@RequestMapping(value = "/jogador", method = RequestMethod.GET)
+	@RequestMapping(value = "/mensagem", method = RequestMethod.GET)
 	public String listarJogador() {
 		return "Segue a amensagem";
 	}
