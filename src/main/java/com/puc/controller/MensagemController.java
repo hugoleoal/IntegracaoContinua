@@ -12,8 +12,6 @@ public class MensagemController {
 	public String listarJogador() {
 		return "Nome: Hugo Leonardo de Andrade - Email: 1415908@sga.pucminas.br - Curso: Cutura e prática DEVOPS";
 		
-//		1415908@sga.pucminas.br
-
 	}
 	
 }
